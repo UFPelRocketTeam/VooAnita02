@@ -1,6 +1,6 @@
 close all;
 clear all;
-data=csvread("voo_anita.csv");
+data=csvread("dados_voo_anita.csv");
 pkg load signal;
 pkg load control;
 
